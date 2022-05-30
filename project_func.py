@@ -2,7 +2,7 @@
 """
 Created on Tue May 17 13:16:55 2022
 
-@author: Henrique
+@author: Henrique Bucci
 """
 
 import math
